@@ -23,7 +23,7 @@ on GitHub at 🔍 https://github.com/patriciacaballes.
 <a href="https://twitter.com/patriciacaba_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="patriciacaba_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/patriciacaballes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patriciacaballes" height="30" width="40" /></a>
 <a href="https://fb.com/patricia caballes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="patricia caballes" height="30" width="40" /></a>
-<a href="https://instagram.com/patriciacaballes?" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patriciacaballes?" height="30" width="40" /></a>
+<a href="https://instagram.com/patriciacaballes_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patriciacaballes_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
